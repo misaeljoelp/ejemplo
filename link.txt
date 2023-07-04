@@ -1,0 +1,2 @@
+/mnt/c/platzi/proyecto1
+esta direccion es mi link a mi carpeta donde esta mi repositorio
